@@ -62,6 +62,10 @@ a {
   font-size: 32px;
 }
 
+.cta h2 {
+  margin-bottom: 0px;
+}
+
 .features {
   display: flex;
   justify-content: space-around;
